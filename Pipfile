@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 langchain = "==0.0.197"
-gpt4all = "==0.3.4"
+gpt4all = "==1.0.5"
 chromadb = "==0.3.23"
 llama-cpp-python = "==0.1.73"
 urllib3 = "==2.0.4"
